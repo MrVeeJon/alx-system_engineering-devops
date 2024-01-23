@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# start apache inside docker
+serivice apahce2 start
